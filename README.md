@@ -1,1 +1,2 @@
 Odoo configurations
+test
